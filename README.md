@@ -1,2 +1,2 @@
-# Unificador_de_PDFs_em_Python
- Script que unifica PDF's.
+# Projetos_automações_em_Ptyhon
+ Projetos de automação em python feitos estudando o contéudo do Canal Hastag Programação.
